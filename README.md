@@ -1,5 +1,5 @@
 ### Hello world 👋
-[![Dev](https://www.cariverplate.com.ar/imagenes/archivos/2016-08/26220-dsc_8991.jpg)](https://yardev.net)
+<!--[![Dev](https://www.cariverplate.com.ar/imagenes/archivos/2016-08/26220-dsc_8991.jpg)](https://yardev.net)-->
 
 - 🌎 Salta, Argentina
 - 💼 Software Engineer/ Full Stack Developer
