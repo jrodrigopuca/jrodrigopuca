@@ -15,3 +15,5 @@ Actualmente desarrollando con:
 - 🤖 Mobile App: Android: Apache Cordova, React Native, PWA + TWA
 - 💻 Otros: Python (Jupyter Notebook/PyQT5), Ruby (no RoR)
 - ☠️ Ya no estoy desarrollando con: C# (Xamarin/WinForms/ASPNet/UWP), VB6/VB.Net, VFP, Java (Desktop) 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrodrigopuca&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
