@@ -8,12 +8,12 @@
 - 🏆 Imagine Cup 2014 (National Finals Winner), TechCup River Plate, Desafio Nubicom
 
 Actualmente desarrollando con:
-- ⚛️ Front-End: HTML5, SCSS, JavaScript: VueJS, VanillaJS, AngularJS, ReactJS, jQuery, Jest, Supertest
-- 🐘 Back-End: NodeJS + Express JS, PHP Puro, API/REST
-- 🐬 Database: MySQL, MariaDB, PostgreSQL, MongoDB
-- 🐙 DevOps: GitHub + Actions, MS Azure
-- 🤖 Mobile App: Android: React Native, Apache Cordova, PWA + TWA
+- ⚛️ Front-End: HTML5, SCSS, JavaScript: VueJS, VanillaJS, ReactJS, jQuery, Jest, Supertest
+- 🐘 Back-End: NodeJS + Express JS, PHP Puro, API/REST, AWS Lambda
+- 🐬 Database: MySQL, MariaDB, PostgreSQL, MongoDB, Redis
+- 🐙 DevOps: GitHub/Gitlab, Kubernetes, Docker
+- 🤖 Mobile App: React Native, PWA + TWA
 - 💻 Otros: Python (Jupyter Notebook/PyQT5), Ruby (no RoR)
-- ☠️ Ya no estoy desarrollando con: C# (Xamarin/WinForms/ASPNet/UWP), VB6/VB.Net, VFP, Java (Desktop) 
+- ☠️ Ya no estoy desarrollando con: C# (Xamarin/WinForms/ASPNet/UWP), VB6/VB.Net, VFP, Java (Desktop), AngularJS
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrodrigopuca&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
