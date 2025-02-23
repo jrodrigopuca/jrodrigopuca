@@ -4,15 +4,14 @@
 - 🌎 Salta, Argentina
 - 💼 Software Engineer/ Full Stack Developer
 - 🎓 Ingeniero en Informática
-- 💬 Nivel de Inglés: Pre-Intermedio (Grade 4 GESE Trinity)
-- 🏆 Imagine Cup 2014 (National Finals Winner), TechCup River Plate, Desafio Nubicom
+- 🏆 Imagine Cup 2014 (National Finals Winner), TechCup River Plate
 
 Actualmente desarrollando con:
-- ⚛️ Front-End: HTML5, SCSS, JavaScript: VueJS, VanillaJS, ReactJS, jQuery, Jest, Supertest
+- ⚛️ Front-End: HTML5, SCSS, JavaScript: VueJS, VanillaJS, ReactJS, ViTest
 - 🐘 Back-End: NodeJS + Express JS, PHP Puro, API/REST, AWS Lambda
 - 🐬 Database: MySQL, MariaDB, PostgreSQL, MongoDB, Redis
 - 🐙 DevOps: GitHub/Gitlab, Kubernetes, Docker
-- 🤖 Mobile App: React Native, PWA + TWA
+- 🤖 Mobile App: React Native
 - 💻 Otros: Python (Jupyter Notebook/PyQT5), Ruby (no RoR)
 - ☠️ Ya no estoy desarrollando con: C# (Xamarin/WinForms/ASPNet/UWP), VB6/VB.Net, VFP, Java (Desktop), AngularJS
 
